@@ -47,3 +47,6 @@ app.get("/api/user/company", (req, res) => {
 });
 
 app.listen(port, () => console.log(`express server running on port${port}`));
+
+//i was only able to complete this assignment by following along with the walkthru.
+// I have to submit because I don't have any more time to continue to work today, but I will continue to work on this project
